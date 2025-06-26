@@ -123,6 +123,13 @@ You are free to:
 
 [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
+### Recommended License for Software Implementations
+
+If you build or implement the Voxkryptia system as actual **software**, the author recommends releasing it under a **compatible open-source license**, such as:
+
+- **MIT License** — for permissive, simple reuse with minimal conditions  
+- **Apache License 2.0** — for stronger patent protection and corporate compatibility  
+
 ---
 
 ## About the Author
