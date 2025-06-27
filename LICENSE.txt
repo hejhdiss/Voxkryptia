@@ -23,7 +23,7 @@ that legally restrict others from doing anything the license permits.
 
 Author Recommendation:
 
-If you build a software tool, library, or implementation based on this protocol design or idea,  
+If you build a software tool, library, or implementation based on this project design or idea,  
 the author kindly encourages you to consider licensing it under a developer-friendly license,  
 such as the **MIT License** or **Apache License 2.0**, to ensure openness, reusability, and long-term impact.
 
